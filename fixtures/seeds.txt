@@ -1,0 +1,4 @@
+/page/a
+/page/b
+/charset/mixed
+/partial/stream

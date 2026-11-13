@@ -1,0 +1,13 @@
+{
+  "must_have": [
+    ["/page/a", "request"],
+    ["/page/a", "response"],
+    ["/page/b", "request"],
+    ["/page/b", "response"],
+    ["/charset/mixed", "request"],
+    ["/charset/mixed", "response"],
+    ["/partial/stream", "request"],
+    ["/partial/stream", "response"]
+  ],
+  "require_revisit_for": "/page/a"
+}
